@@ -1,7 +1,5 @@
+#CRUD Application
 
-Certainly! Here's a README file template for your project based on the provided information:
-
-CRUD Application
 This is a simple CRUD (Create, Read, Update, Delete) application built using Spring Boot framework. It provides RESTful APIs to perform CRUD operations on a collection of books.
 
 
