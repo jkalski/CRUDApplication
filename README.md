@@ -27,10 +27,10 @@ Maven or Gradle installed for dependency management (if not using an IDE with bu
 Installation
 
 
-# Maven
+Maven
 mvn clean install
 
-# Gradle
+Gradle
 gradle clean build
 Configuration
 The application can be configured via the application.properties file located in the src/main/resources directory. Configuration options include:
